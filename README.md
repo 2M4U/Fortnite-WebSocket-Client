@@ -72,7 +72,7 @@ This project is licensed under the GNU Public License. See the [LICENSE](./LICEN
 - Special thanks to the [EpicGames App Development](https://discord.gg/TbrCXNQuz7) community,
 - [YLS-Dev](https://github.com/YLSDev/).
 - [Eldor](https://github.com/3ldor/)
-- 
+
 If you've contributed to this project or if you've used external libraries and resources, make sure to include them in the "Credits" section.
 It's a way to acknowledge the efforts of contributors and give credit to the resources that have been utilized.
 
