@@ -113,7 +113,7 @@ class FortniteWebSocket {
   }
 
   async main() {
-    const solo = this.debug ? 'playlist_playgroundv2' : prompt('Insert Playlist Here:');
+    const solo = this.debug ? 'playlist_playgroundv2' : 'playlist_defaultsolo';
     try {
       this.netcl = await this.getNetCL(this.Bearer);
       const { payload, signature } = await this.generateTicket(this.Bearer, solo);
