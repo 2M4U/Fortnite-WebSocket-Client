@@ -56,8 +56,26 @@ Please ensure that your code follows the project's coding standards and includes
 # License
 This project is licensed under the GNU Public License. See the [LICENSE](./LICENSE) file for details.
 
-# Acknowledgments
-- Special thanks to the EpicGames App Development community & [YLS-Dev](https://github.com/YLSDev/Fortnite-Matchmaker/blob/main/matchmake.py).
+## Credits
+
+### Contributors
+- [2M4U](https://github.com/2M4U) - Project Lead
+- [Eldor](https://github.com/3ldor/mms-checksum-poc/) - Reverse Engineering
+- [YLS-Dev](https://github.com/YLSDev/Fortnite-Matchmaker/) - Python
+
+### External Libraries and Resources
+- [Axios](https://github.com/axios/axios) - Used for making HTTP requests.
+- [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - JavaScript WebSocket API.
+- [Epic Games](https://www.epicgames.com/site/en-US/home) - For providing official APIs and services.
+
+### Special Thanks
+- Special thanks to the [EpicGames App Development](https://discord.gg/TbrCXNQuz7) community,
+- [YLS-Dev](https://github.com/YLSDev/).
+- [Eldor](https://github.com/3ldor/)
+- 
+If you've contributed to this project or if you've used external libraries and resources, make sure to include them in the "Credits" section.
+It's a way to acknowledge the efforts of contributors and give credit to the resources that have been utilized.
+
 
 # **Ban Disclaimer:**
 
